@@ -1,2 +1,3 @@
 # idotno.fr
-Personnal website
+
+Personnal blog
