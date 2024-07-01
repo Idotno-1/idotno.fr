@@ -13,6 +13,11 @@ h1 {
 	font-size: 50px;
 }
 
+h2 {
+	font-size: 40px;
+	color: #5ACE83;
+}
+
 article {
 	display: block;
 	text-align: left;
@@ -64,11 +69,18 @@ button {
 	margin-inline: 10px;
 }
 
+.project {
+	background-color: #46805A;
+}
+
+.card {
+	padding-bottom: 30px;
+}
+
 button:hover .back:hover {
 	background-color: #1db954;
 }
 
 .back {
 	color: #15883e;
-
 }
